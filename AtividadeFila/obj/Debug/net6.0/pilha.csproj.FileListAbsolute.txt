@@ -1,0 +1,15 @@
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\bin\Debug\net6.0\pilha.exe
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\bin\Debug\net6.0\pilha.deps.json
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\bin\Debug\net6.0\pilha.runtimeconfig.json
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\bin\Debug\net6.0\pilha.dll
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\bin\Debug\net6.0\pilha.pdb
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\obj\Debug\net6.0\pilha.csproj.AssemblyReference.cache
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\obj\Debug\net6.0\pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\obj\Debug\net6.0\pilha.AssemblyInfoInputs.cache
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\obj\Debug\net6.0\pilha.AssemblyInfo.cs
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\obj\Debug\net6.0\pilha.csproj.CoreCompileInputs.cache
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\obj\Debug\net6.0\pilha.dll
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\obj\Debug\net6.0\refint\pilha.dll
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\obj\Debug\net6.0\pilha.pdb
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\obj\Debug\net6.0\pilha.genruntimeconfig.cache
+C:\Users\415238\Desktop\EstruturaDadosI\Atividades\pilha\obj\Debug\net6.0\ref\pilha.dll
